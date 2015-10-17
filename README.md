@@ -1,6 +1,3 @@
-# UVA-100
-Solve of this 
-
 #include <cstdio>
 #include <algorithm>
 #define long long LL
